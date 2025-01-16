@@ -51,12 +51,7 @@
 
 <h3>📫 Contact 📫</h3>
 <div>
-  <a href="https://iamwhite.tistory.com/">
-    <img src="https://img.shields.io/badge/TISTORY-black?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:jonghtyj@gmail.com">
-    <img src="https://img.shields.io/badge/jonghtyj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://iamwhite.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-black?style=for-the-badge&logo=Tistory&logoColor=white" /></a> &nbsp <a href="mailto:jonghtyj@gmail.com"><img src="https://img.shields.io/badge/jonghtyj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
