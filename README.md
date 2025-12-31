@@ -1,8 +1,7 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FCB6D0&height=300&section=header&text=YEJI&fontSize=90)
-
+<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=FCB6D0&height=300&section=header&text=YEJI&fontSize=90)-->
 <!--내용 부분-->
-<h3>✨ Tech Stack ✨</h3>
+<!--<h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -48,6 +47,7 @@
 </div>
 
 <br>
+--!>
 
 <h3>📫 Contact 📫</h3>
 <div>
